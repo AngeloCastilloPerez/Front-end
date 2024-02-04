@@ -1,0 +1,24 @@
+@{
+"themePrimary" = "#b8a633";
+"themeLighterAlt" = "#070702";
+"themeLighter" = "#1d1b08";
+"themeLight" = "#37320f";
+"themeTertiary" = "#6e641f";
+"themeSecondary" = "#a2922d";
+"themeDarkAlt" = "#bfae43";
+"themeDark" = "#c9ba5b";
+"themeDarker" = "#d7cb80";
+"neutralLighterAlt" = "#43413d";
+"neutralLighter" = "#4b4945";
+"neutralLight" = "#575550";
+"neutralQuaternaryAlt" = "#5f5c58";
+"neutralQuaternary" = "#65635e";
+"neutralTertiaryAlt" = "#7f7d78";
+"neutralTertiary" = "#f1eccb";
+"neutralSecondary" = "#f4efd3";
+"neutralPrimaryAlt" = "#f6f2db";
+"neutralPrimary" = "#ebe3b2";
+"neutralDark" = "#faf8ec";
+"black" = "#fdfcf5";
+"white" = "#3b3935";
+}
